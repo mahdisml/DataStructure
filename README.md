@@ -1,4 +1,4 @@
 # DataStructure
 Data Structure - University Projects
 
-هنوز تمرینی گفته نشده
+Hanooz Ostad tamrini darkhast nakarde :)
